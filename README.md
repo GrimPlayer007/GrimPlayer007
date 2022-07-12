@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anandu S Nambiar
+- 👋 Hi, @GrimPlayer007
 - 👀 I’m interested in Gaming and Coding
 - 🌱 I’m currently learning Computer Science Engineering
 
